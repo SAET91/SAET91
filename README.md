@@ -1,16 +1,16 @@
-### Hi there 👋
+   Hola, soy Sebastián Encina 👋
+🚀 Ingeniero de Datos en crecimiento | Apasionado por la transformación de datos 📊💻
 
-<!--
-**SAET91/SAET91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 Con una sólida formación en Python, SQL y un curso especializado en Ingeniería de Datos de IBM en Coursera, me he consolidado como un profesional versátil y preparado para enfrentar los desafíos del mundo de los datos.
 
-Here are some ideas to get you started:
+💡 En mi trayectoria, he adquirido habilidades fundamentales en:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Diseño, administración y arquitectura de bases de datos relacionales.
+-Procesamiento de datos a gran escala con Apache Spark.
+-Extracción, transformación y carga (ETL) utilizando Python y scripts de Shell.
+-Modelado y almacenamiento de datos en Data Warehouses.
+-Consultas avanzadas en bases de datos SQL y herramientas de Business Intelligence.
+-Implementación y gestión de soluciones NoSQL.
+🌟 Mi proyecto de culminación, un emocionante desafío inspirado en necesidades reales de análisis de datos, me permitió demostrar estas habilidades en un entorno práctico y complejo.
+
+Estoy emocionado por seguir creciendo en mi carrera y contribuir al éxito de proyectos que utilicen la potencia de los datos para tomar decisiones inteligentes. ¡Conéctate conmigo y exploremos juntos el fascinante mundo de los datos!
